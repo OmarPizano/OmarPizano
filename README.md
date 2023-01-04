@@ -1,5 +1,7 @@
 👋 Hi, I am @OmarPizano. Currently finishing my computer systems engineer degree.
 
+Watch my [blog](https://omarpizano.github.io/)!
+
 ## About Me 🤵
 
 I am deeply interested in cybersecurity and DevOps. I love helping people and 
