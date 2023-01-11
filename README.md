@@ -1,6 +1,8 @@
 👋 Hi, I am @OmarPizano. Currently finishing my computer systems engineer degree.
 
-Watch my [blog](https://omarpizano.github.io/)!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmarPizano&label=Profile%20views&color=ff0033&style=flat" alt="OmarPizano" /> </p>
+
+Check out my [blog](https://omarpizano.github.io/)!
 
 ## About Me 🤵
 
