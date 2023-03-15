@@ -16,13 +16,13 @@ some of the following skills.
 
 ## Skills 🤺
 
-- [ ] PHP+MVC
-- [ ] MongoDB-Express-React-Node.js
+- [ ] PHP+MVC [webapp-store](https://github.com/OmarPizano/webapp-store)
+- [ ] MongoDB-Express-React-Node.js [blog-app](https://github.com/OmarPizano/blog-app)
 - [ ] Network+
 - [ ] Google Cloud Platform
 - [x] Docker
 - [ ] Security+
-- [x] GNU/Linux
+- [x] GNU/Linux [beowulf-cluster](https://github.com/OmarPizano/beowulf_cluster)
 
 ## Colaboration 💞
 
