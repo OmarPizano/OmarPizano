@@ -14,16 +14,15 @@ from time to time.
 I would like to work in cybersecurity one day but, before I get there, I am developing
 some of the following skills.
 
-## Currently Learning 🤺
+## Skills 🤺
 
-- [ ] TODO: Soon I will put some links to my work!!
-
-- WebDev (PHP, MVC, Laravel)
-- Programming (C, Python, Bash, Assembly)
-- Networking
-- Cloud (GCP, Docker, Kubernetes)
-- SysAdmin, DevOps (GNU/Linux, Windows Active Directory)
-- Cybersecurity (Pentesting, BugBounty, AppSec, Reversing, etc.)
+- [ ] PHP+MVC
+- [ ] MongoDB-Express-React-Node.js
+- [ ] Network+
+- [ ] Google Cloud Platform
+- [x] Docker
+- [ ] Security+
+- [x] GNU/Linux
 
 ## Colaboration 💞
 
@@ -34,17 +33,13 @@ DevOps.
 ## Internship 💼
 
 Currently looking for an internship. The roles I am targeting are:
-- Tier 1/2 Helpdesk Support
-- System Administrator/Engineer
-- Network Engineer
-- Backend Software Developer
-- Any junior security-based role
+- HelpDesk/SupportDesk
+- WebDev (backend)
+- Junior DevOps Engineer
 
 ## Contact 📫 
 
 If you think we can work together, feel free to reach me at omar.pizano@proton.me. I'd be very happy to meet you 😉
-
-
 
 <!---
 OmarPizano/OmarPizano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
